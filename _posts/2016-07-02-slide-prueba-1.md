@@ -5,8 +5,8 @@ permalink: /presentation-2/
 
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Tema numero 1
+   slide-data: Este es el primer slide
    background: "#e74c3c"
      
  - title: Slide 2
